@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MedAssist</string>
+    <string name="about">About Application</string>
+    <string name="copyright">MedAssist is an application designed to assist administrators in inputting and managing detailed and comprehensive drug information. The name MedAssist is a combination of \"Medical\" and \"Assist,\" reflecting the application\'s function as a comprehensive medical guide. The main features offered include providing drug images to facilitate visual identification, complete information about drug names including generic and brand names, explanations of the diseases or conditions that can be treated with the drug, as well as the recommended dosage and frequency of use. With these features, MedAssist ensures that drug information is available accurately and easily accessible to users.</string>
+    <string name="tambah_obat">Add medicine</string>
+    <string name="profil">Profile</string>
+    <string name="nama">Medicine name</string>
+    <string name="indikasi">Indication of Disease</string>
+    <string name="show_indikasi">Indication:</string>
+    <string name="show_frekuensi">"Consume "</string>
+    <string name="sehari">" times a day"</string>
+    <string name="frekuensi">Specific Times</string>
+    <string name="gambar">Image %1$s</string>
+    <string name="error">Failed to load data due to a connection error</string>
+    <string name="konfirmasi_hapus">Are you sure you want to delete?</string>
+    <string name="list">List view</string>
+    <string name="grid">Grid view</string>
+    <string name="batal">Cancel</string>
+    <string name="simpan">Save</string>
+    <string name="kembali">Back</string>
+    <string name="tutup">Close</string>
+    <string name="logout">Logout</string>
+    <string name="hapus">Delete</string>
+    <string name="bagikan">Share</string>
+    <string name="try_again">Try again</string>
+    <string name="template_bagikan">Medicine %1$s with an indication of disease %2$s should be taken %3$s times a day</string>
+    <string name="info_obat">Medicine Information</string>
+</resources>

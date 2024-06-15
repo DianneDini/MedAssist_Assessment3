@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MedAssist</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="copyright">MedAssist adalah aplikasi yang dirancang untuk membantu administrator dalam menginput dan mengelola informasi obat-obatan secara lengkap dan terperinci. Nama MedAssist merupakan gabungan dari \"Medical\" dan \"Assist\", mencerminkan fungsi aplikasi ini sebagai panduan medis yang komprehensif. Fitur utama yang ditawarkan meliputi penyediaan gambar obat untuk memudahkan identifikasi visual, informasi lengkap tentang nama obat termasuk nama generik dan merek, penjelasan indikasi penyakit yang dapat diobati oleh obat tersebut, serta frekuensi pemakaian dan dosis yang dianjurkan. Dengan fitur-fitur ini, MedAssist memastikan informasi obat tersedia dengan akurat dan mudah diakses oleh pengguna.</string>
+    <string name="tambah_obat">Tambah Obat</string>
+    <string name="profil">Profil</string>
+    <string name="nama">Nama Obat</string>
+    <string name="indikasi">Indikasi Penyakit</string>
+    <string name="show_indikasi">"Indikasi: "</string>
+    <string name="show_frekuensi">"Diminum "</string>
+    <string name="sehari">"x sehari "</string>
+    <string name="frekuensi">Frekuensi Per Hari</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data karena koneksi error</string>
+    <string name="konfirmasi_hapus">Apakah Anda yakin ingin menghapusnya?</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="hapus">Hapus</string>
+    <string name="bagikan">Hapus</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="template_bagikan">Obat %1$s dengan indikasi penyakit %2$s harus diminum %3$s kali sehari</string>
+    <string name="info_obat">Informasi Obat</string>
+</resources>
